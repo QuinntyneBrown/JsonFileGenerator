@@ -1,0 +1,8 @@
+C:\projects\JsonFileGenerator\JsonFileGenerator\bin\Debug\JsonFileGenerator.exe.config
+C:\projects\JsonFileGenerator\JsonFileGenerator\bin\Debug\JsonFileGenerator.exe
+C:\projects\JsonFileGenerator\JsonFileGenerator\bin\Debug\JsonFileGenerator.pdb
+C:\projects\JsonFileGenerator\JsonFileGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\projects\JsonFileGenerator\JsonFileGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\projects\JsonFileGenerator\JsonFileGenerator\obj\Debug\JsonFileGenerator.csprojResolveAssemblyReference.cache
+C:\projects\JsonFileGenerator\JsonFileGenerator\obj\Debug\JsonFileGenerator.exe
+C:\projects\JsonFileGenerator\JsonFileGenerator\obj\Debug\JsonFileGenerator.pdb
