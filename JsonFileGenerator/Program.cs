@@ -30,8 +30,8 @@ namespace JsonFileGenerator
             };
 
             var products = new List<Product>() {product, product};
-            
-            File.WriteAllText(AppConfiguration.Config.OutputPath + "output.json", JsonConvert.SerializeObject(products, Formatting.Indented));
+
+            File.WriteAllText(outputFile, JsonConvert.SerializeObject(products, Formatting.Indented));
 
         }
     }
